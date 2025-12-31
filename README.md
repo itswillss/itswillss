@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hello, I'm Romario! <br/><a href="https://github.com/">B.S. Cybersecurity Candidate</a>
 
-<!--
-**itswillss/itswillss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Project Placeholder 1</b>
+  - [Praciting DS & Algos in Python](https://github.com/)
+- <b>Project Placeholder 2</b>
+  - [Image Analysis Middleware](https://github.com) <b><i>(Potentially NSFW)</b></i>
+- <b>Project Placeholder 3</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
+  - [JWipe (Disk Wiping Utility)](https://github.com/)
+  - [Active Directory Bulk User Creation](https://github.com/)
+  - [FIM (File Integrity Monitor)](https://github.com/)
+- <b>Project Placeholder 4</b>
+  - [1](https://github.com/)
+  - [2](https://github.com/)
+  - [3](https://github.com/)
+- <b>Project Placeholder 5</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/
