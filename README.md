@@ -1,25 +1,31 @@
-<h1>Hello, I'm Romario! <br/><a href="https://github.com/">B.S. Cybersecurity Candidate</a>
+# Hello, I'm Romario
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## Brief Introduction
 
-- <b>Project Placeholder 1</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
-- <b>Project Placeholder 2</b>
-  - [Image Analysis Middleware](https://github.com)
-- <b>Project Placeholder 3</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
-  - [JWipe (Disk Wiping Utility)](https://github.com/)
-  - [Active Directory Bulk User Creation](https://github.com/)
-  - [FIM (File Integrity Monitor)](https://github.com/)
-- <b>Project Placeholder 4</b>
-  - [1](https://github.com/)
-  - [2](https://github.com/)
-  - [3](https://github.com/)
-- <b>Project Placeholder 5</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+I am a third-year B.S. in Cybersecurity student dedicated to the engineering side of security. My focus is on building and maintaining resilient systems that are secure by design. I am passionate about moving beyond simple analysis to actively engineering solutions that automate defense and harden infrastructure.
 
-<h2>Connect with me:</h2>
+## Objective
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Currently pursuing my B.S. in Cybersecurity, I am eager to bridge the gap between academic theory and industry practice. My objective is to secure a Junior Cybersecurity Engineering role or internship where I can apply my foundation in network security and system hardening to help build and maintain secure enterprise infrastructures.
 
-[linkedin]: https://linkedin.com/in/
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Place holder 1       | <a href="https://google.com">Skill 1</a>|
+| Place holder 2 | <a href="https://google.com">Skill 2</a>|
+| Place holder 3         | Skill 3|
+| Place holder 4      | Skill 4|
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
