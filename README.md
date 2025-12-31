@@ -5,7 +5,7 @@
 - <b>Project Placeholder 1</b>
   - [Praciting DS & Algos in Python](https://github.com/)
 - <b>Project Placeholder 2</b>
-  - [Image Analysis Middleware](https://github.com) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com)
 - <b>Project Placeholder 3</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
   - [JWipe (Disk Wiping Utility)](https://github.com/)
